@@ -1,2 +1,2 @@
 # hello-world
-A test repository in order to have understand githu
+A test repository in order to have understand gith
